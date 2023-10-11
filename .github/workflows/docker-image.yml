@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: Aaa000/koyeb
-          username: '${{ secrets.Aaa000 }}'
+          username: '${{ secrets.aaa000 }}'
           password: '${{ secrets.Aa12345678 }}'
